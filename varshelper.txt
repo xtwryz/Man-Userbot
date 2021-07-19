@@ -103,3 +103,5 @@ GENIUS_API_TOKEN =
 GENIUS = 
 
 
+# sudo user
+SUDO_USER = Any id
